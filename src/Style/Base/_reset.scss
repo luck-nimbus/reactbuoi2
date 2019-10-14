@@ -1,0 +1,23 @@
+//Quy định tất cả những gì mặc định thuộc về trang web
+html{
+    //rem, em (đơn bị tương đối)
+    font-size: 14px;
+
+    @media screen and (max-width: 768px) {
+        font-size: 50%;
+    }
+}
+
+body{
+    //background-color, color, font-weight, ..
+}
+
+// a:hover{
+
+// }
+
+// a:focus{
+
+// }
+
+// scrollbar
